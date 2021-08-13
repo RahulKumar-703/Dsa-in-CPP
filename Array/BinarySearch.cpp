@@ -8,19 +8,21 @@ int binarySearch(int element, int array[], size_t arraySize)
     
     while(start <= end)
     {
+        // Initializing Mid Point Of Array
         int mid = (start+end)/2;
 
+        // If Element at mid point itself is desired element then return it
         if(element == array[mid]) return mid;
-        else if(element < array[mid])
+        else if(element < array[mid])   // Else Check if element at mid point is greater than desired element then search before mid element
         {
             end = mid -1;
         }
-        else
+        else       // Else search after mid element
         {
             start = mid + 1;
         }
     }
-    return -1;
+    return -1;      // If element not found return -1
 }
 
 int main()
