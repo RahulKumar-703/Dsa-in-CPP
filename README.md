@@ -17,6 +17,8 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
 
 
 ## Array
-  1. `Find An Element From An Array (Linear Search)`
-  2. `Find An Element From An Sorted Array (Binary Search)`
-  3. `Find An Element From An Sorted Array (Binary Search Using Recursion)`
+
+
+  1. > [Find An Element From An Array (Linear Search)](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindElement.cpp) 
+  2. > [Find An Element From An Sorted Array (Binary Search)](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearch.cpp)
+  3. > [Find An Element From An Sorted Array (Binary Search Using Recursion)](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearchRecursion.cpp)
