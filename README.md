@@ -26,3 +26,5 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
   3. > [Find An Element From An Sorted Array `(Binary Search Using Recursion)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearchRecursion.cpp)
 
   4. > [Sort an Array `(Bubble Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BubbleSort.cpp)
+  
+  5. > [Sort an Array `(Insertion Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/InsertionSort.cpp)
