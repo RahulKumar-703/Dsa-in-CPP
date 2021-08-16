@@ -29,4 +29,4 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
   
   5. > [Sort an Array `(Insertion Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/InsertionSort.cpp)
 
-  6. > [Sort an Array `(Selection Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/selectionSort.cpp)
+  6. > [Sort an Array `(Selection Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SelectionSort.cpp)
