@@ -28,3 +28,5 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
   4. > [Sort an Array `(Bubble Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BubbleSort.cpp)
   
   5. > [Sort an Array `(Insertion Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/InsertionSort.cpp)
+
+  6. > [Sort an Array `(Selection Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/selectionSort.cpp)
