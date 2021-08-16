@@ -13,17 +13,19 @@ void print(int array[], size_t arraySize)
 
 void insertionSort(int array[], size_t arraySize)   // size_t is basically a datatpye to hold container size (Similar to unsigned int)
 {
-    for(int i = 1; i< arraySize; i++)
+    for(int i = 1; i< arraySize; i++)       // started from 1 beacuse assumed sorted array till 0 (one element alwayes be sorted)
     {
-        int temp = array[i];
+        int temp = array[i];    // Sotering value in temp
 
-        int j = i-1;
+        int j = i-1;    // initilized j after sorted array
+
         while(j >=0 && array[j] > temp) // change condition for decending order
         {
-            array[j+1] = array[j];
+            array[j+1] = array[j];      // replacing with adjecent element
             j--;
         }
-        array[j+1] = temp;
+
+        array[j+1] = temp;      // putting back temp element at its appropiate place.
     }
 }
 
