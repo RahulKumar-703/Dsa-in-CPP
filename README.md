@@ -10,23 +10,25 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
 ---
 
 
-## Topics I Learnt And Put In This Repo
+## 1. Topics I Learnt And Put In This Repo
 
-` First Of All I Learnt MarkDown (.md) Syntax And Rules For editing GitHub's Readme.md File`
+- ` First Of All I Learnt MarkDown (.md) Syntax And Rules For editing GitHub's Readme.md File`
+
+---
+
+## 2. Array
 
 
+  1. [Find An Element From An Array `(Linear Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindElement.cpp) 
 
-## Array
+  2. [Find An Element From An Sorted Array `(Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearch.cpp)
 
+  3. [Find An Element From An Sorted Array `(Binary Search Using Recursion)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearchRecursion.cpp)
 
-  1. > [Find An Element From An Array `(Linear Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindElement.cpp) 
-
-  2. > [Find An Element From An Sorted Array `(Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearch.cpp)
-
-  3. > [Find An Element From An Sorted Array `(Binary Search Using Recursion)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BinarySearchRecursion.cpp)
-
-  4. > [Sort an Array `(Bubble Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BubbleSort.cpp)
+  4. [Sort an Array `(Bubble Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/BubbleSort.cpp)
   
-  5. > [Sort an Array `(Insertion Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/InsertionSort.cpp)
+  5. [Sort an Array `(Insertion Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/InsertionSort.cpp)
 
-  6. > [Sort an Array `(Selection Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SelectionSort.cpp)
+  6. [Sort an Array `(Selection Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SelectionSort.cpp)
+
+  6. [Sort an Array `(Quick Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/QuickSort.cpp)
