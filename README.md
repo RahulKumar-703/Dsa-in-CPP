@@ -29,4 +29,6 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
 
   6. [Sort an Array `(Selection Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SelectionSort.cpp)
 
-  6. [Sort an Array `(Quick Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/QuickSort.cpp)
+  7. [Sort an Array `(Quick Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/QuickSort.cpp)
+
+  7. [Sort an Array `(Merge Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/MergeSort.cpp)
