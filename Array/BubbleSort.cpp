@@ -19,7 +19,7 @@ void bubbleSort(int array[], int arraySize)
         bool isSorted = true;   // if array is already sorted we will break the loop
         for(int j = 0; j<arraySize-1-i; j++) // some improvement
         {
-            if(array[j] > array[j+1])   // I am sorting in decending Order if i place (array[j] > array[j+1]) it will sort in accending order
+            if(array[j] > array[j+1])   // I am sorting in decending Order if i place (array[j] < array[j+1]) it will sort in accending order
             {
                 // Swap lower element with greater
                 int tmp = array[j];
