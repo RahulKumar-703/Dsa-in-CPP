@@ -31,4 +31,8 @@ MY Journy Of Learning __*Data Structure And Algorithm*__
 
   7. [Sort an Array `(Quick Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/QuickSort.cpp)
 
-  7. [Sort an Array `(Merge Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/MergeSort.cpp)
+  8. [Sort an Array `(Merge Sort)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/MergeSort.cpp)
+  
+  9. [Find Ceiling of given Number from Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindCeiling.cpp)
+  
+  10. [Find Floor of given Number from Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindFloor.cpp)
