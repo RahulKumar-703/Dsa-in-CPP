@@ -60,3 +60,7 @@ ___
   9. [Find Ceiling of given Number from Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindCeiling.cpp)
   
   10. [Find Floor of given Number from Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FindFloor.cpp)
+  
+  11. [Find First Occurrence of an element in Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/FirstOccurrenece.cpp)
+  
+  12. [Find Last Occurrence of an element in Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/LastOccurrenece.cpp)
