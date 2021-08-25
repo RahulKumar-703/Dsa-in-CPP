@@ -65,4 +65,4 @@ ___
   
   12. [Find Last Occurrence of an element in Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/LastOccurrence.cpp)
   
-  12. [FCount The Number of a given Element in an Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/CountTarget.cpp)
+  13. [FCount The Number of a given Element in an Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/CountTarget.cpp)
