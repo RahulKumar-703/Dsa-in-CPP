@@ -23,7 +23,7 @@ ___
 
 ## 1. Markdown
 
-- First Of All I Learnt ` MarkDown (.md) Syntax And Rules` For editing GitHub's Readme.md File
+- First Of All I Learnt ` MarkDown (.md) Syntax And Rules` For editing GitHub's 'Readme.md' File
 
   
   
@@ -68,3 +68,5 @@ ___
   13. [Count The Number of a given Element in an Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/CountTarget.cpp)
   
   14. [Searchin a given Element in an Infinite Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SearchInInfiniteArray.cpp)
+  
+  15. [Finding Peek(Max) Element Of a Mountain Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/PeekOfMountainArray.cpp)
