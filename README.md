@@ -69,4 +69,6 @@ ___
   
   14. [Searchin a given Element in an Infinite Sorted Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SearchInInfiniteArray.cpp)
   
-  15. [Finding Peek(Max) Element Of a Mountain Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/PeekOfMountainArray.cpp)
+  15. [Finding Peek(Max) Element Of a Mountain (bitonic) Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/PeekOfMountainArray.cpp)
+
+  15. [Searching Target Element in a Mountain (bitonic) Array `(Based on Binary Search)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/Array/SearchInMountain.cpp)
