@@ -24,7 +24,7 @@
 
 ## 2. Patterns
 
-1.  [Print Striaght Eqilateral Triangle `(Pattern Printing)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/straightEqilateralTriangle.cpp)
+1.  [Print Striaght Eqilateral Triangle `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/straightEqilateralTriangle.cpp)
 
 ```
     *
@@ -34,7 +34,7 @@
 * * * * *
 ```
 
-2.  [Print Opposite Eqilateral Triangle `(Pattern Printing)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/oppositeEqilateralTriangle.cpp)
+2.  [Print Opposite Eqilateral Triangle `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/oppositeEqilateralTriangle.cpp)
 
 ```
 * * * * *
@@ -44,7 +44,7 @@
     *
 ```
 
-3.  [Print Filled Diamond `(Pattern Printing)`](https://github.com/RahulKumar-703/Dsa-in-CPP/blob/main/filledDiamond.cpp)
+3.  [Print Filled Diamond `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/filledDiamond.cpp)
 
 ```
     *
