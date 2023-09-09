@@ -14,13 +14,19 @@ int main()
 
     for (int row = 0; row < n; ++row)
     {
-        for (int col = 0; col < row; ++col)
+        for (int col = 0; col < 2 * n - 1; ++col)
         {
-            cout << " ";
-        }
-        for (int col = row; col < n; ++col)
-        {
-            cout << "* ";
+            if (col >= row && col <= 2 * n - row - 2)
+            {
+                if ((row % 2 == 0 && col % 2 == 0) || (row % 2 == 1 && col % 2 == 1))
+                {
+                    cout << "*";
+                }
+                else
+                    cout << " ";
+            }
+            else
+                cout << " ";
         }
         cout << endl;
     }
