@@ -58,6 +58,40 @@
     *
 ```
 
+4.  [Print Up Arrow `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/upArrow.cpp)
+
+```
+    *
+   * *
+  *   *
+ *     *
+*       *
+```
+
+5.  [Print Down Arrow `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/downArrow.cpp)
+
+```
+*       *
+ *     *
+  *   *
+   * *
+    *
+```
+
+3.  [Print Hollow Diamond `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/hollowDiamond.cpp)
+
+```
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+```
+
 ## 3. Arrays
 
     -------------------- Searching --------------------
