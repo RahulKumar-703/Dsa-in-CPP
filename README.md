@@ -158,6 +158,86 @@ A B C D C B A
 A B C D E D C B A
 ```
 
+10. [Print Numbered Increasing and Decreasing Pyramid `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/numberMountainPyramid.cpp)
+
+```
+    1
+   121
+  12321
+ 1234321
+123454321
+```
+
+11. [Print Numbered Increasing and Decreasing Pyramid (Fancy Pattern 1) `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/specialPattern_1.cpp)
+
+```
+********1********
+*******2*2*******
+******3*3*3******
+*****4*4*4*4*****
+****5*5*5*5*5****
+```
+
+12. [Print Star Flag `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/starFlag.cpp)
+
+```
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+```
+
+13. [Print Numbered Increasing Right Angle Triangle (Floyd's Triangle) `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/numberIncRightangleTriangle.cpp)
+
+```
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
+
+14. [Print Butterfly`(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/butterfly.cpp)
+
+```
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+```
+
+15. [Print Increasing Number and Star Flag (Fancy Pattern 2) `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/numStarFlag.cpp)
+
+```
+1
+2*3
+4*5*6
+7*8*9*10
+4*5*6
+2*3
+1
+```
+
+16. [Print Mountain Number Flag Surrounded by star (Fancy Pattern 3) `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/numberFlagBorderStar.cpp)
+
+```
+*
+* 1 *
+* 1 2 1 *
+* 1 2 3 2 1 *
+* 1 2 1 *
+* 1 *
+*
+```
+
 ## 3. Arrays
 
     -------------------- Searching --------------------
