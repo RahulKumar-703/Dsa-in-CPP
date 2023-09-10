@@ -92,6 +92,72 @@
     *
 ```
 
+4.  [Print Number and Star Flag `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/numStarFlag.cpp)
+
+```
+1
+2*2
+3*3*3
+4*4*4*4
+3*3*3
+2*2
+1
+```
+
+5.  [Print Hollow oppostie Right Angle Triagle `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/hollowOppositeRightAngleTriangle.cpp)
+
+```
+* * * * * *
+*       *
+*     *
+*   *
+* *
+*
+```
+
+6.  [Print Hollow inverted Diamond `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/hollowInvertedDiamond.cpp)
+
+```
+**** ****
+***   ***
+**     **
+*       *
+*       *
+**     **
+***   ***
+**** ****
+```
+
+7.  [Print Numbered Hollow Right Angle Triangle `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/hollowNumberRightangleTriangle.cpp)
+
+```
+1
+1 2
+1   3
+1     4
+1 2 3 4 5
+```
+
+8.  [Print Opposite Numbered Hollow Right Angle Triangle `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/oppositeHollowNumberRightangleTriangle.cpp)
+
+```
+1 2 3 4 5
+1     4
+1   3
+1 2
+1
+```
+
+9.  [Print Alphabetic Increasing and Decreasing Right Angle Triangle `(Pattern Printing)`](https://github.com/Rahulkumar703/Dsa-in-CPP/blob/main/Pattern/alphaMountainRightangleTriangle.cpp)
+
+```
+A
+A B A
+A B C B A
+A B C D C B A
+A B C D E D C B A
+```
+
 ## 3. Arrays
 
     -------------------- Searching --------------------
